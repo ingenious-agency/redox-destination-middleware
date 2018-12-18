@@ -1,6 +1,6 @@
 {
   "name": "@ingenious-redox/destination-middleware",
-  "version": "0.1.0",
+  "version": "0.3.0",
   "description": "A set of expressjs middlewares to ease the development of Redox destinations endpoints",
   "main": "src/index.js",
   "scripts": {
@@ -11,10 +11,18 @@
     "destination",
     "express"
   ],
-  "devDependencies": {
+  "dependencies": {
     "ramda.path": "^0.25.0",
     "ramda.replace": "^0.25.0"
   },
   "author": "Gabriel Chertok <gchertok@ingsw.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ingenious-agency/destination-middleware.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ingenious-agency/destination-middleware/issues"
+  },
+  "homepage": "https://github.com/ingenious-agency/destination-middleware#readme"
 }
