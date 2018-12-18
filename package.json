@@ -1,0 +1,20 @@
+{
+  "name": "@ingenious-redox/destination-middleware",
+  "version": "0.1.0",
+  "description": "A set of expressjs middlewares to ease the development of Redox destinations endpoints",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "redox",
+    "destination",
+    "express"
+  ],
+  "devDependencies": {
+    "ramda.path": "^0.25.0",
+    "ramda.replace": "^0.25.0"
+  },
+  "author": "Gabriel Chertok <gchertok@ingsw.com>",
+  "license": "MIT"
+}
